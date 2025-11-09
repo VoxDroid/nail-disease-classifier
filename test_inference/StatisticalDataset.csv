@@ -1,0 +1,32 @@
+Nail Feature,Associated Disease/Condition,P(Nail | Disease) 0-1%,P(Disease) 0-1%,P(Disease) Population (size),P(Disease) Sex_Female 0-1,P(Disease) Sex_Male 0-1,Age (Mean),Age_Low,Age_High
+Beau's Lines,COVID-19,0.186,0.0363,116786962,,,,,
+Beau's Lines,Chemotherapy,0.032,0.457,,,,,,
+Beau's Lines,Gastrointestinal and Liver System Disease,0.152,0.122,134,0.71,0.29,42.2,,
+Beau's Lines,Renal System Disease,0.094,0.3594,,,,,70,100
+Beau's Lines,Hematopoietic System Disease,0.123,0.195,,0.503,0.491,,,
+Beau's Lines,Chronic Renal Failure,0.357,0.3594,,,,,70,100
+Blue Nail,Raynaud's phenomenon,0.1195,0.052,,0.052,0.0009,32.73,,
+Blue Nail,Congenital Heart Disease,0.25,0.0137,1455393,0.5,0.5,0,0,0
+Clubbing,Lung cancer,0.1,0.000293,108116622,0.3,0.7,,0,75
+Clubbing,Crohn's disease,0.38,0.0000014,108116622,,,,,
+Clubbing,Ulcerative colitis,0.15,0.000057,,,,,,
+Clubbing,Cardiovascular System Disease,0.438,0.246,,,,,,
+Clubbing,Gastrointestinal and Liver System Disease,0.283,0.122,134,0.71,0.29,42.2,,
+Clubbing,Renal System Disease,0.125,0.3594,,,,,70,100
+Clubbing,Hematopoietic System Disease,0.035,0.195,,0.503,0.491,,,
+Clubbing,Chronic Renal Failure,0.018,0.3594,,,,,70,100
+Koilonychia,Iron Deficiency Anemia,0.05,0.195,,0.503,0.491,,,
+Koilonychia,Hematopoietic System Disease,0.211,0.195,,0.503,0.491,,,
+Melanonychia,Subungual melanoma,0.3,0.000015,,,,,0,75
+Melanonychia,Human Immunodeficiency Virus (HIV),0.253,0.03,,,,,15,49
+Melanonychia,Chronic Renal Failure,0.142,0.3594,,,,,70,100
+Muehrcke's Lines,Nephrotic syndrome,0.23,0.03,,,,,0,18
+Muehrcke's Lines,Chronic Renal Failure,0.071,0.3594,,,,,70,100
+Muehrcke's Lines,Renal System Disease,0.094,0.3594,,,,,70,100
+Onychogryphosis,Chronic Renal Failure,0.107,0.112,115600000,,,,,
+Onychogryphosis,Elderly Population,0.112,0.077,115000000,,,,60,100
+Pitting,Psoriasis,0.45,0.02,,,,,,
+Pitting,Alopecia areata,0.8,0.018,,0.5,0.5,,,
+Terry's Nails,Liver cirrhosis,0.256,0.318,,,,,,
+Terry's Nails,Congestive heart failure,0.306,0.016,92337852,0.501,0.499,52.6,19,114
+Healthy Nail,No systemic disease,0.99,,,,,,,
